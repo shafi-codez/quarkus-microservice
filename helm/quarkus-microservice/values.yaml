@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 releaseType: stable
-image: cognitive-banter-microservice
+image: quarkus-microservice
 
 #replicaCount: 1
 #
