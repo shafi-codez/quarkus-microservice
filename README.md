@@ -1,2 +1,2 @@
-Staging
-Prod Enabled
+- Staging
+- Prod Enabled
